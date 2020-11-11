@@ -1,7 +1,7 @@
 #
 # nginx-proxy-manager Dockerfile
 #
-# https://github.com/jlesage/docker-nginx-proxy-manager
+# https://github.com/unriad-stuff/docker-nginx-proxy-manager/
 #
 
 # Pull base image.
